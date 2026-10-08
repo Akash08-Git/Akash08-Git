@@ -27,7 +27,8 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/everettt/everettt/main/assets/developer.gif" width="100%" />
+      <!-- Is line me apni image file ka link (jaise 'devops-blueprint.png') daalen -->
+      <img src="https://raw.githubusercontent.com/Akash08-Git/Akash08-Git/main/devops-blueprint.png" width="100%" />
     </td>
   </tr>
 </table>
