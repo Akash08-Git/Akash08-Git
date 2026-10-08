@@ -1,37 +1,45 @@
-<h1 align="center">👋 Hi, I'm Akash Pawar</h1>
-<h3 align="center">Cloud & DevOps Engineer @ Wipro</h3>
-<p align="center">
-  7x Multi-Cloud Certified (3x AWS, 3x GCP, Azure) · DevSecOps & SRE · Agentic AI
-</p>
+<!-- HEADER SECTION -->
+<div align="center">
+  <h1>👋 Hi, I'm Akash Pawar</h1>
+  <h3>Cloud & DevOps Engineer @ Wipro</h3>
+  <p>
+    <b>7x Multi-Cloud Certified</b> (3x AWS, 3x GCP, Azure) · DevSecOps & SRE · Agentic AI
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/EMAIL-akashpawar0608%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/LOCATION-PUNE,%20INDIA-green?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+  </p>
+</div>
 
-<!-- Badges Section -->
-<p align="center">
-  <a href="mailto:akashpawar0608@gmail.com"><img src="https://img.shields.io/badge/EMAIL-akashpawar0608%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LOCATION-PUNE,%20INDIA-4CAF50?style=for-the-badge&logo=google-maps&logoColor=white" /></a>
-</p>
+<hr>
 
----
+<!-- ABOUT ME SECTION WITH OBITO IMAGE -->
+<h2 align="center">🙇‍♂️ About Me</h2>
 
-### 👨‍💻 About Me
+I am a Cloud & DevOps Engineer at Wipro with expertise in multi-cloud architecture, automation, and infrastructure engineering.
 
-<table>
+<table border="0">
   <tr>
-    <td width="60%" valign="top">
-      I am a <b>Cloud & DevOps Engineer</b> at Wipro with expertise in multi-cloud architecture, automation, and infrastructure engineering.
-      <br/><br/>
+    <td valign="top" width="60%">
+      <!-- Text-based skill list -->
       <ul>
-        <li>🏢 <b>Company:</b> Wipro Technologies</li>
-        <li>📜 <b>Certifications:</b> 7x Multi-Cloud (3x AWS, 3x GCP, Azure)</li>
-        <li>⚙️ <b>Core Skills:</b> CI/CD | Docker & K8s | IaC | Observability</li>
-        <li>🚀 <b>Focus Areas:</b> DevSecOps, SRE & Agentic AI</li>
+        <li>🏢 **Company:** Wipro Technologies</li>
+        <li>📜 **Certifications:** 7x Multi-Cloud Certified (3x AWS, 3x GCP, Azure)</li>
+        <li>⚙️ **Core Skills:** CI/CD | Docker & K8s | IaC | Observability</li>
+        <li>🚀 **Focus Areas:** DevSecOps, SRE & Agentic AI</li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="obito-laptop.png" width="100%" alt="Obito Uchiha - Cloud & DevOps Engineer" />
+    <td valign="top" width="40%" align="center">
+      <!-- Image column: Relative Path is correct for file in same directory -->
+      <!-- Filename MUST be exact: obito-laptop.png -->
+      <a href="https://github.com/Akash08-Git">
+        <img src="obito-laptop.png" alt="Obito Uchiha - Cloud & DevOps Engineer" width="100%">
+      </a>
     </td>
   </tr>
 </table>
 
+<hr>
 
 ### 🛠 Tech Stack
 
