@@ -16,8 +16,8 @@
 
 <table>
   <tr>
-    <td width="60%">
-      I am a Cloud & DevOps Engineer at Wipro with expertise in multi-cloud architecture, automation, and infrastructure engineering.
+    <td width="60%" valign="top">
+      I am a <b>Cloud & DevOps Engineer</b> at Wipro with expertise in multi-cloud architecture, automation, and infrastructure engineering.
       <br/><br/>
       <ul>
         <li>🏢 <b>Company:</b> Wipro Technologies</li>
@@ -26,9 +26,8 @@
         <li>🚀 <b>Focus Areas:</b> DevSecOps, SRE & Agentic AI</li>
       </ul>
     </td>
-    <td width="40%" align="center">
-      <!-- Is line me apni image file ka link (jaise 'devops-blueprint.png') daalen -->
-      <img src="https://raw.githubusercontent.com/Akash08-Git/Akash08-Git/main/devops-blueprint.png" width="100%" />
+    <td width="40%" align="center" valign="middle">
+      <img src="obito-laptop.png" width="100%" alt="Obito Uchiha - Cloud & DevOps Engineer" />
     </td>
   </tr>
 </table>
